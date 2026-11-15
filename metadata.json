@@ -1,0 +1,6 @@
+{
+  "name": "MediLink Vault",
+  "description": "One QR Code. Zero Lost Files. Instant AI Clinical Clarity. Secure, multilingual, AI-powered healthcare interoperability and medical record vault platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
